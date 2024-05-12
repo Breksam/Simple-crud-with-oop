@@ -24,7 +24,7 @@ clone Repository in your local pc
 
 Import Database file:
 
-   https://github.com/Breksam/Simple-crud-with-oop/blob/main/company.sql
+    https://github.com/Breksam/Simple-crud-with-oop/blob/main/company.sql
 
 
 ## Running the tests
